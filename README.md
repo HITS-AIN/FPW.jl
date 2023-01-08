@@ -1,6 +1,6 @@
 # FPW.jl
 
-Note: This package is also available [here](https://github.com/ngiann/FastParzenWindows.jl/). The present repo serves merely as a placeholder under the HITS-AIN organisation and will be sporadically updated.
+*Note*: This package is also available [here](https://github.com/ngiann/FastParzenWindows.jl/). The present repo serves merely as a placeholder under the HITS-AIN organisation and will be sporadically updated.
 
 ## ℹ What is this?
 
